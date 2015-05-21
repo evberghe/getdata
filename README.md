@@ -4,7 +4,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-The data used here was downloaded from COursera's web site, and transformed as specified in the project description. The script 'analysis.R' in this github repository does the following:
+The data used here was downloaded from Coursera's web site, and transformed as specified in the project description. The script 'analysis.R' in this github repository does the following:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -12,10 +12,10 @@ The data used here was downloaded from COursera's web site, and transformed as s
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-More information on each of these steps is given as comments in the script itself. A couple of points here:
+More information on each of these steps is given as comments in the script itself. A couple more general points here:
 
 * The data files were not stored in the same directory as the script, but in a separate subdirectory 'data'
-* The original name of the directory, as found in the zip file, was changed to 'harus' (Human Activity Recognition Using Smartphones), wich is boh shorter and more readable than the orginal directory name. Most importantly, i doesn't ontain spces (which I don't lke in directory or ile names).
+* The original name of the directory, as found in the zip file, was changed to 'harus' (Human Activity Recognition Using Smartphones), which is both shorter and more readable than the orginal directory name. Most importantly, it doesn't contain spaces (which I don't like in directory or file names).
 
  
  
