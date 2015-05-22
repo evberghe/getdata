@@ -27,14 +27,15 @@ In the dataset, means are given for each of the features, for each of the activi
 
 
 'activity' and 'subject_id' are not measured, but recorded. 'subject_id' is the identifier of the subject on which the measurements were made. 'activity' is one of
-1. WALKING
-2. WALKING_UPSTAIRS
-3. WALKING_DOWNSTAIRS
-4. SITTING
-5. STANDING
-6. LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 # list of fields/features
+```
  activity 
  subject_id 
  tBodyAcc_mean__X 
@@ -117,3 +118,4 @@ In the dataset, means are given for each of the features, for each of the activi
  fBodyBodyGyroJerkMag_std 
  fBodyBodyGyroJerkMag_meanFreq 
 
+```
