@@ -17,5 +17,8 @@ More information on each of these steps is given as comments in the script itsel
 * The data files were not stored in the same directory as the script, but in a separate subdirectory 'data'
 * The original name of the directory, as found in the zip file, was changed to 'harus' (Human Activity Recognition Using Smartphones), which is both shorter and more readable than the orginal directory name. Most importantly, it doesn't contain spaces (which I don't like in directory or file names).
 
- 
+## Citation
+Original data are from:
+
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013. 
  
